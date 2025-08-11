@@ -14,7 +14,7 @@ I don’t just analyze data; I craft the pipeline that powers it, blending data 
 - Untangling messy data pipelines to reveal hidden truths  
 - Designing workflows that make data reliable and accessible  
 - Building visuals that aren’t just eye candy, but insight engines  
-- Mastering tools across the stack — Python, SQL, Tableau, and beyond  
+- Mastering tools across the stack: Python, SQL, Tableau, and beyond  
 - Always curious, always learning, always aiming to connect dots end-to-end  
 
 ---
